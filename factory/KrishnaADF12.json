@@ -1,0 +1,9 @@
+{
+	"name": "KrishnaADF12",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a1108daa-1f0a-4e40-a516-3ff798c5f699",
+		"tenantId": "c1e3fe19-6262-48bb-918c-43998f0bee97"
+	}
+}
